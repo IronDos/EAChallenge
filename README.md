@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# EA Callenge
+Learning React(Hooks) in 24 hours.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
